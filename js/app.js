@@ -1,19 +1,7 @@
-// Untitled-Faucet v0.0.1
-
-// Edit these:
-
 var config = {
-  // Set this to your app's MoneyPot ID. You can see this in your app's
-  // MoneyPot URL.
-  //
-  // For example, https://www.moneypot.com/apps/561-untitled-dice
-  // has an ID of 561.
-  app_id: 561,
-  // On MoneyPot, go to your apps "Edit" page and set the
-  // Recaptcha SecretKey there. The SiteKey goes here.
-  recaptcha_sitekey: '6LfI_QUTAAAAACrjjuzmLw0Cjx9uABxb8uguLbph',
-  // Set this to the URL where you're hosting this script.
-  redirect_uri: 'https://untitled-dice.github.io/untitled-faucet'
+  app_id: 2898,
+  recaptcha_sitekey: '6Lf-pSYUAAAAAA3oOBg1DU5pFxk4Kza4zaR8YOSV',
+  redirect_uri: 'https://shanno18.github.io/'
 };
 
 ////////////////////////////////////////////////////////////
