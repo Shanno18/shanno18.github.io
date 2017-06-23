@@ -1,6 +1,6 @@
 var config = {
   app_id: 2898,
-  recaptcha_sitekey: '6Lf-pSYUAAAAAA3oOBg1DU5pFxk4Kza4zaR8YOSV',
+  recaptcha_sitekey: '6Lf-6Lf-pSYUAAAAAA3oOBg1DU5pFxk4Kza4zaR8YOSV',
   redirect_uri: 'https://shanno18.github.io/'
 };
 
